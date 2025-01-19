@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kartik Dhole</h1>
 <h3 align="center">A passionate software developer from India</h3>
+<img align= "right" alt= "Coding" width= "400" src = "https://user-images.githubusercontent.com/98527559/175492401-7d16c8fd-da98-4dc4-b8f6-b4993744a063.gif">
 
 - 🌱 I’m currently learning **CyberSecurity**
 
